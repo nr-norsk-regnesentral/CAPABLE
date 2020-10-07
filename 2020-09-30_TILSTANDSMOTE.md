@@ -1,0 +1,21 @@
+# 2020-09-30 Tilstandsmøte i slutten av september.
+
+Deltagere: Kristin F., Anne M., Trenton S., Joschua S.-L.
+
+Anne forklarte noe av bakgrunnen i prosjektet:
+* Kurvsystemet med Metavision som lister medisiner i epikrisen i en ustrukturert pdf.
+Kristin presenterte [noen forslag](https://docs.google.com/document/d/1DxLsOLcEAPJoPKN54ceXXnrOsgcgyS6nGTdhGcF7IZs/edit#heading=h.d9uefco69as9) for mulige oppgaver i Capapbe i høst 2020.
+* Kontrastverktøyet for WCAG rettninslinjene: 
+Utviklinge tar kanskje tre dager. 
+For Anne er det et typisk eksempel for neste prosjekt.
+Hun ønsker konkrete anbefalinger som kan hjelpe med generelle løsninger.
+
+Anne skal prøve å utvide arbeidspakken 3, 4 og 5 til neste året. 
+Få med inn medisiner.
+Få med inn Bang.
+NR er i hovedsaken ansvarlig for arbeidspakke ??? (Pilots and evaluation) og vi skal stort sett jobbe med remote testing i høst for capable.healthcare.
+Spørsmålene her er:
+* Hva omfatter testingen?
+    * Hvor vidt oppholder nettsiden WCAG retningslinjene?
+	* Hva er SUS for den nettsiden?
+* Hvordan kan testingen gjennomføres remotely?
