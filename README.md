@@ -8,5 +8,10 @@ Hovedmålet i høst 2020 er å lage et rammeverk for fjernevaluering av tilgjeng
 # Oversikt
 
 * Referater
-   * [Referater fra møter i (09) september 2020](./referater/2020-09_MOTER.md)
-   * [Referater fra møter i (10) september 2020](./referater/2020-10_MOTER.md)
+   * 2021
+      * [Referater fra møter i (01) januar 2021](./referater/2021/2021-01_MOTER.md) 
+   * 2020
+      * [Referater fra møter i (09) september 2020](./referater/2020/2020-09_MOTER.md)
+      * [Referater fra møter i (10) oktober 2020](./referater/2020/2020-10_MOTER.md)
+      * [Referater fra møter i (11) november 2020](./referater/2020/2020-11_MOTER.md)
+      * [Referater fra møter i (12) desember 2020](./referater/2020/2020-12_MOTER.md)
